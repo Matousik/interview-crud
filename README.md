@@ -18,7 +18,7 @@ You need to implement a complete CRUD (Create, Read, Update, Delete) application
 - Age is optional
 - Add tests for your operations
 
-### As a follow-up
+### As a follow-up
 
 - **Filter** among existing people for name, email and age
    - Filter for first name and partial name, allow partial match
