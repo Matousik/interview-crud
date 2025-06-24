@@ -16,16 +16,16 @@ You need to implement a complete CRUD (Create, Read, Update, Delete) application
 - First name, last name and email are required fields
 - Email must be unique
 - Age is optional
-- Add tests for your operations
+- Add tests for your CRUD operations
 
 ### As a follow-up
 
 - **Filter** among existing people for name, email and age
-   - Filter for first name and partial name, allow partial match
+   - Filter for first name and last name, allow partial match
    - For age, allow also filtering by range
-- **Validate** the form input. E.g. make email required and unique among people, allow adding only adults
+- **Validate** the form input. E.g. allow adding only adults.
 - **Implement pagination**
-- **Implement sorting**, e.g. by age, name, date the user has been added - you can create additional column for that with automatic filling
+- **Implement sorting**, e.g. by age, name, date the user has been added - you can create additional column in db schema for that with automatic filling
 - **Make the interface responsive**, ideally keep mobile-first approach in mind
 
 ## Evaluation Criteria
